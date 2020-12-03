@@ -1,2 +1,2 @@
-# datastructure
-Data structure implementation practice
+# Algorithms
+Algorithm implementations 
